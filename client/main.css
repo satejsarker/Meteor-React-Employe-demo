@@ -1,0 +1,14 @@
+body {
+  padding: 5px;
+  font-family: sans-serif;
+}
+
+.employee-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.thumbnail {
+  width: 400px;
+}
